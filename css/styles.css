@@ -1,0 +1,17 @@
+:root {
+    --color-dark: #a719c4;
+    --color-light-gray: #eeeeee;
+}
+
+header.jumbotron {
+    background-color: var(--color-dark);
+    color: var(--color-light-gray);
+}
+
+.container .row.row-header {
+    margin-bottom: 0;
+}
+
+.container .row {
+    margin-bottom: 75px;
+}
